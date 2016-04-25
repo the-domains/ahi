@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[AHI']]></title>
         <description><![CDATA[AHI']]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ahi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 17:55:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 18:06:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ahi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45f85b33-4284-4b0d-b66a-e16c32a49370.jpg">]]></description>
+            <link>https://thegrid.ai/ahi/animal-spirit-guideslisten-for-them/index.html</link>
+            <guid isPermaLink="false">9fc83771-09fa-4fc4-9a06-1b12fcce654b</guid>
+            <pubDate>Mon, 25 Apr 2016 18:06:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7ff5973-ed5f-4183-b812-32e2ca278dde.jpg">]]></description>
-            <link>undefined30e4983e-b9f3-490b-957d-19e0ea25da95/index.html</link>
+            <link>https://thegrid.ai/ahi/30e4983e-b9f3-490b-957d-19e0ea25da95/index.html</link>
             <guid isPermaLink="false">30e4983e-b9f3-490b-957d-19e0ea25da95</guid>
             <pubDate>Mon, 25 Apr 2016 17:55:02 GMT</pubDate>
         </item>
