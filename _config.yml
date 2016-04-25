@@ -1,0 +1,28 @@
+name: "AHI'"
+favicon: null
+layout_spectrum: 0.4738487512804568
+typography_spectrum: 0.5339816987980157
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8136288821697235
+  lightness: 0.6053645045030862
+  saturation: 0.8995899083092809
+  rhythmicContrast: 0.6283628710079938
+purpose: []
